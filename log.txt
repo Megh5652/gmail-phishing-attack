@@ -1,8 +1,2 @@
-username=meghana
-password=mehg
-submit=Login
 
-username=mokshith
-password=mok65
-submit=Login
 
